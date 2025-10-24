@@ -1,0 +1,8 @@
+LangChain>=0.3.25
+langchain-deepseek>=0.1.3
+python-dotenv
+openai
+langchain_community
+dashscope
+
+
