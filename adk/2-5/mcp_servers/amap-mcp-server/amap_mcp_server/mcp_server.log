@@ -1,0 +1,245 @@
+2025-07-29 17:17:04,343 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 17:17:08,021 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 17:17:08,237 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 17:17:15,388 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 17:17:15,450 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 17:17:22,996 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 17:17:23,128 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 17:38:26,561 - mcp.server.streamable_http_manager - INFO - StreamableHTTP session manager started
+2025-07-29 17:50:47,246 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: c0ef290d72a6491c99513a7fbb27b29a
+2025-07-29 17:51:14,611 - mcp.server.streamable_http_manager - INFO - StreamableHTTP session manager shutting down
+2025-07-29 17:51:16,171 - mcp.server.streamable_http_manager - INFO - StreamableHTTP session manager started
+2025-07-29 17:51:38,255 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: 059594c4e53343858ab295a1af305881
+2025-07-29 17:52:37,348 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: c8037be2feed4291afb6e5351ecd0b46
+2025-07-29 17:52:37,375 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 17:52:43,319 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 17:52:43,533 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 17:52:49,088 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 17:52:49,249 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 17:53:47,041 - mcp.server.streamable_http - INFO - Terminating session: c8037be2feed4291afb6e5351ecd0b46
+2025-07-29 18:23:27,398 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: 8e764622516b436d83765e35edb7a547
+2025-07-29 18:23:27,503 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:23:27,541 - mcp.server.streamable_http - INFO - Terminating session: 8e764622516b436d83765e35edb7a547
+2025-07-29 18:24:00,413 - mcp.server.streamable_http_manager - INFO - StreamableHTTP session manager shutting down
+2025-07-29 18:24:31,366 - mcp.server.streamable_http_manager - INFO - StreamableHTTP session manager started
+2025-07-29 18:24:47,929 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: d7d0659b5af4444388bcb9ff198aeceb
+2025-07-29 18:24:47,943 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:24:47,971 - mcp.server.streamable_http - INFO - Terminating session: d7d0659b5af4444388bcb9ff198aeceb
+2025-07-29 18:38:26,856 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: e393c09e1316493d981936e35dd6b4ac
+2025-07-29 18:38:26,913 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:39:54,725 - mcp.server.streamable_http - INFO - Terminating session: e393c09e1316493d981936e35dd6b4ac
+2025-07-29 18:39:54,763 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: c79ac1b9fe124eee941da13820e7aaec
+2025-07-29 18:39:54,782 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:40:53,291 - mcp.server.streamable_http - INFO - Terminating session: c79ac1b9fe124eee941da13820e7aaec
+2025-07-29 18:41:07,217 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: 67791c6a440c4e039a4da9877749f597
+2025-07-29 18:41:07,238 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:41:40,730 - mcp.server.streamable_http - INFO - Terminating session: 67791c6a440c4e039a4da9877749f597
+2025-07-29 18:41:40,770 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: 80e4a205ee2c4b0aba72d6c703b18590
+2025-07-29 18:41:40,790 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:41:51,108 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 18:41:51,351 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 18:41:51,553 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 18:41:51,768 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 18:41:51,818 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 18:41:51,879 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:42:16,711 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 18:42:16,798 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 18:42:16,874 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 18:42:16,961 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 18:42:17,014 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:47:42,463 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: e5e05bab70ea4314adc586651f04866c
+2025-07-29 18:47:42,480 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:47:47,301 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 18:47:47,626 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:00,670 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 18:48:00,755 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 18:48:00,825 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 18:48:00,905 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 18:48:00,958 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 18:48:01,011 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 18:48:01,091 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 18:48:01,179 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:09,252 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 18:48:09,310 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:13,309 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:13,328 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:13,349 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:13,368 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:13,387 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:13,406 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:13,425 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:14,495 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:14,517 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:14,543 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:14,568 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:14,601 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:14,623 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:14,649 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:14,910 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:14,934 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:14,965 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:14,993 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:15,019 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:15,045 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:15,067 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:15,190 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:15,213 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:15,236 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:15,261 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:15,288 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:15,313 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:15,339 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:15,455 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:15,477 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:15,505 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:15,530 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:15,559 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:15,586 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:15,610 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:15,770 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:15,795 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:15,819 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:15,843 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:15,867 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:15,892 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:15,916 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:16,028 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:16,050 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:16,072 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:16,094 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:16,116 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:16,138 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:16,162 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:17,129 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:21,794 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:23,084 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:23,108 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:23,128 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:23,146 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:23,165 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:23,183 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:48:23,202 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:50:03,652 - mcp.server.streamable_http - INFO - Terminating session: e5e05bab70ea4314adc586651f04866c
+2025-07-29 18:50:03,687 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: 5e805ac883154f709d7c69df5e57724a
+2025-07-29 18:50:03,703 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:50:03,719 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:50:03,735 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:50:03,750 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:50:03,766 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:50:03,782 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 18:50:03,797 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:04:33,134 - mcp.server.streamable_http - INFO - Terminating session: 5e805ac883154f709d7c69df5e57724a
+2025-07-29 20:20:54,024 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: 52d4c5d9ba684525a0be9900ba280fa1
+2025-07-29 20:20:54,083 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:21:20,348 - mcp.server.streamable_http - INFO - Terminating session: 52d4c5d9ba684525a0be9900ba280fa1
+2025-07-29 20:22:11,244 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: 4f14ca8d1d0044d0afe5063c6dc2e095
+2025-07-29 20:22:11,260 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:22:16,122 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 20:22:16,357 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:22:21,358 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 20:22:21,506 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:22:32,676 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 20:22:32,769 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 20:22:32,850 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 20:22:32,914 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 20:22:32,968 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 20:22:33,028 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:22:46,047 - mcp.server.streamable_http - INFO - Terminating session: 4f14ca8d1d0044d0afe5063c6dc2e095
+2025-07-29 20:30:07,786 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: 140f2ce837e9433eb1bb4dd7a7eb4bbf
+2025-07-29 20:30:07,812 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:30:11,792 - mcp.server.streamable_http - INFO - Terminating session: 140f2ce837e9433eb1bb4dd7a7eb4bbf
+2025-07-29 20:30:38,127 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: 61a17fb4e61546fa8b9805d81765996d
+2025-07-29 20:30:38,143 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:30:42,805 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 20:30:43,011 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:30:43,178 - mcp.server.streamable_http - INFO - Terminating session: 61a17fb4e61546fa8b9805d81765996d
+2025-07-29 20:31:00,768 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: c1313ecdad814782b08cbde631ea70d8
+2025-07-29 20:31:00,788 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:31:05,489 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: 521ccdd483a04a999401f30858668a58
+2025-07-29 20:31:05,671 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 20:31:05,867 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:31:05,878 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:31:11,577 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 20:31:11,727 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:31:27,742 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 20:31:27,844 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 20:31:27,930 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 20:31:28,000 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 20:31:28,068 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 20:31:28,142 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 20:31:28,218 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:32:52,551 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: 0fac3f9c0ffb49d3aebb43a58d7d4f76
+2025-07-29 20:32:52,570 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:32:57,270 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: 095072ffed4349e48d8f75c9fd4fcbe0
+2025-07-29 20:32:57,500 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 20:32:57,566 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:32:57,579 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:33:53,985 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: c762ee98fa1840cf9370fa1343786932
+2025-07-29 20:33:53,998 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:33:59,237 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 20:33:59,308 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:34:11,602 - mcp.server.streamable_http - INFO - Terminating session: c762ee98fa1840cf9370fa1343786932
+2025-07-29 20:34:37,727 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: c743bab7cdfa48af928ce2017d4a6b87
+2025-07-29 20:34:37,743 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:34:42,522 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: baf349fd1d434c1287cbf17c550fa829
+2025-07-29 20:34:42,671 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 20:34:42,736 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:34:42,746 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:35:12,937 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: d9643f5d6b3d459ba12916c2d7aa136a
+2025-07-29 20:35:12,956 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:35:17,094 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 20:35:17,180 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:35:31,243 - mcp.server.streamable_http - INFO - Terminating session: d9643f5d6b3d459ba12916c2d7aa136a
+2025-07-29 20:35:56,445 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: 38789690e6f748cb88ca625537c56e31
+2025-07-29 20:35:56,468 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:36:00,904 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: 02f0eaabbf0d4c7f819c7c5c74424fc7
+2025-07-29 20:36:01,059 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 20:36:01,125 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:36:01,135 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:37:00,621 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: 7d1b4fe9206c488ca387d1ed9e5a8f06
+2025-07-29 20:37:00,642 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:37:05,479 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: 618f2fbc68fa44ba9b2bb6ba96593fe8
+2025-07-29 20:37:05,780 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 20:37:05,835 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:37:05,846 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:38:40,176 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: 70de90030e67411487356758ffa7269b
+2025-07-29 20:38:40,192 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:38:46,361 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: 502d34fd1ed241b28afd5f3082150d39
+2025-07-29 20:38:46,499 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 20:38:46,560 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:38:46,568 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:39:34,639 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: ff3028d702ea477b827de047a9bb18eb
+2025-07-29 20:39:34,656 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:39:39,609 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: b636a59be0224199b3178c1962b48ccf
+2025-07-29 20:39:39,750 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 20:39:39,804 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:39:39,812 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:40:16,018 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: 45bde0bc73c64dc88b2e25993fddb1b8
+2025-07-29 20:40:16,041 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:40:20,532 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: 95b5d7ca3b95418493244b0ad926e138
+2025-07-29 20:40:20,549 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 20:40:20,613 - mcp.server.lowlevel.server - INFO - Warning: RuntimeWarning: coroutine 'Request.body' was never awaited
+2025-07-29 20:40:20,618 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:40:20,746 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:42:33,916 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: bee2cccc98bc4693b237f70c3ff8c755
+2025-07-29 20:42:33,931 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:42:38,223 - mcp.server.streamable_http - INFO - Terminating session: bee2cccc98bc4693b237f70c3ff8c755
+2025-07-29 20:43:07,950 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: 2d536bdfce32467b9bcaa293836928df
+2025-07-29 20:43:07,966 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:43:12,038 - mcp.server.streamable_http - INFO - Terminating session: 2d536bdfce32467b9bcaa293836928df
+2025-07-29 20:43:49,986 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: 057363768d424bceb44a306ef6098b88
+2025-07-29 20:43:50,004 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:44:05,094 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: a34a2aacef954e238cc21bfaa5c37c13
+2025-07-29 20:44:05,237 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 20:44:05,299 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:44:05,308 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:49:49,315 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: 347aee31366e4395b9bd5c2509e8516a
+2025-07-29 20:49:49,359 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:49:56,366 - mcp.server.streamable_http - INFO - Terminating session: 347aee31366e4395b9bd5c2509e8516a
+2025-07-29 20:50:15,370 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: 100b4c3bc73b4a52a8b02d7bb9724b77
+2025-07-29 20:50:15,389 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:50:21,897 - mcp.server.streamable_http_manager - INFO - Created new transport with session ID: a3a33a5b600f4a758351bf366cdf8255
+2025-07-29 20:50:22,059 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-07-29 20:50:22,125 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:50:22,134 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-07-29 20:54:42,447 - mcp.server.streamable_http_manager - INFO - StreamableHTTP session manager shutting down

@@ -1,0 +1,120 @@
+11:01:33,943 graphrag.cli.index INFO Logging enabled at /root/autodl-tmp/graphrag/test/logs/indexing-engine.log
+11:01:34,197 openai._base_client INFO Retrying request to /chat/completions in 0.377555 seconds
+11:01:34,581 openai._base_client INFO Retrying request to /chat/completions in 0.973161 seconds
+11:01:35,559 openai._base_client INFO Retrying request to /chat/completions in 1.923345 seconds
+11:01:37,491 openai._base_client INFO Retrying request to /chat/completions in 3.093537 seconds
+11:01:40,594 openai._base_client INFO Retrying request to /chat/completions in 6.383704 seconds
+11:01:46,990 openai._base_client INFO Retrying request to /chat/completions in 7.226917 seconds
+11:01:54,231 openai._base_client INFO Retrying request to /chat/completions in 6.276951 seconds
+11:02:00,521 openai._base_client INFO Retrying request to /chat/completions in 7.759213 seconds
+11:02:08,294 openai._base_client INFO Retrying request to /chat/completions in 6.941075 seconds
+11:02:15,248 openai._base_client INFO Retrying request to /chat/completions in 7.200190 seconds
+11:05:05,88 graphrag.cli.index INFO Logging enabled at /root/autodl-tmp/graphrag/test/logs/indexing-engine.log
+11:05:05,331 openai._base_client INFO Retrying request to /chat/completions in 0.385819 seconds
+11:05:05,721 openai._base_client INFO Retrying request to /chat/completions in 0.941666 seconds
+11:05:06,670 openai._base_client INFO Retrying request to /chat/completions in 1.963318 seconds
+11:05:08,638 openai._base_client INFO Retrying request to /chat/completions in 3.607361 seconds
+11:05:12,256 openai._base_client INFO Retrying request to /chat/completions in 6.617757 seconds
+11:05:18,885 openai._base_client INFO Retrying request to /chat/completions in 6.733303 seconds
+11:05:25,632 openai._base_client INFO Retrying request to /chat/completions in 6.260913 seconds
+11:05:31,905 openai._base_client INFO Retrying request to /chat/completions in 7.480845 seconds
+11:05:39,395 openai._base_client INFO Retrying request to /chat/completions in 7.631274 seconds
+11:05:47,41 openai._base_client INFO Retrying request to /chat/completions in 6.320593 seconds
+11:10:15,753 graphrag.cli.index INFO Logging enabled at /root/autodl-tmp/graphrag/test/logs/indexing-engine.log
+11:10:16,14 openai._base_client INFO Retrying request to /chat/completions in 0.411382 seconds
+11:10:16,431 openai._base_client INFO Retrying request to /chat/completions in 0.830133 seconds
+11:10:17,268 openai._base_client INFO Retrying request to /chat/completions in 1.826419 seconds
+11:10:19,101 openai._base_client INFO Retrying request to /chat/completions in 3.259791 seconds
+11:10:22,370 openai._base_client INFO Retrying request to /chat/completions in 7.466879 seconds
+11:10:29,852 openai._base_client INFO Retrying request to /chat/completions in 6.820651 seconds
+11:10:36,685 openai._base_client INFO Retrying request to /chat/completions in 7.654656 seconds
+11:10:44,353 openai._base_client INFO Retrying request to /chat/completions in 7.832004 seconds
+11:10:52,196 openai._base_client INFO Retrying request to /chat/completions in 6.117159 seconds
+11:10:58,323 openai._base_client INFO Retrying request to /chat/completions in 6.287136 seconds
+11:14:29,445 graphrag.cli.index INFO Logging enabled at /root/autodl-tmp/graphrag/test/logs/indexing-engine.log
+11:14:29,750 httpx INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+11:14:31,235 openai._base_client INFO Retrying request to /embeddings in 0.478447 seconds
+11:14:31,719 openai._base_client INFO Retrying request to /embeddings in 0.806089 seconds
+11:14:32,530 openai._base_client INFO Retrying request to /embeddings in 1.537777 seconds
+11:14:34,73 openai._base_client INFO Retrying request to /embeddings in 3.474059 seconds
+11:14:37,556 openai._base_client INFO Retrying request to /embeddings in 6.260665 seconds
+11:14:43,827 openai._base_client INFO Retrying request to /embeddings in 6.546198 seconds
+11:14:50,383 openai._base_client INFO Retrying request to /embeddings in 6.504045 seconds
+11:14:56,900 openai._base_client INFO Retrying request to /embeddings in 7.388523 seconds
+11:15:04,302 openai._base_client INFO Retrying request to /embeddings in 6.360706 seconds
+11:15:10,673 openai._base_client INFO Retrying request to /embeddings in 7.924744 seconds
+11:17:50,387 graphrag.cli.index INFO Logging enabled at /root/autodl-tmp/graphrag/test/logs/indexing-engine.log
+11:17:50,761 httpx INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+11:17:52,153 openai._base_client INFO Retrying request to /embeddings in 0.417245 seconds
+11:17:52,576 openai._base_client INFO Retrying request to /embeddings in 0.763762 seconds
+11:17:53,346 openai._base_client INFO Retrying request to /embeddings in 1.792663 seconds
+11:17:55,147 openai._base_client INFO Retrying request to /embeddings in 3.837472 seconds
+11:17:58,995 openai._base_client INFO Retrying request to /embeddings in 7.499994 seconds
+11:18:06,509 openai._base_client INFO Retrying request to /embeddings in 7.397363 seconds
+11:18:13,921 openai._base_client INFO Retrying request to /embeddings in 6.305223 seconds
+11:18:20,238 openai._base_client INFO Retrying request to /embeddings in 7.994507 seconds
+11:18:28,247 openai._base_client INFO Retrying request to /embeddings in 6.585064 seconds
+11:18:34,843 openai._base_client INFO Retrying request to /embeddings in 6.904267 seconds
+11:32:43,779 graphrag.cli.index INFO Logging enabled at /root/autodl-tmp/graphrag/test/logs/indexing-engine.log
+11:32:44,417 httpx INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+11:32:45,797 openai._base_client INFO Retrying request to /embeddings in 0.480986 seconds
+11:32:46,287 openai._base_client INFO Retrying request to /embeddings in 0.751684 seconds
+11:32:47,45 openai._base_client INFO Retrying request to /embeddings in 1.770793 seconds
+11:32:48,825 openai._base_client INFO Retrying request to /embeddings in 3.748527 seconds
+11:32:52,581 openai._base_client INFO Retrying request to /embeddings in 6.647847 seconds
+11:32:59,242 openai._base_client INFO Retrying request to /embeddings in 6.155076 seconds
+11:33:05,409 openai._base_client INFO Retrying request to /embeddings in 6.583310 seconds
+11:33:12,3 openai._base_client INFO Retrying request to /embeddings in 7.259962 seconds
+11:33:19,274 openai._base_client INFO Retrying request to /embeddings in 6.730712 seconds
+11:33:26,17 openai._base_client INFO Retrying request to /embeddings in 7.753606 seconds
+11:36:58,399 graphrag.cli.index INFO Logging enabled at /root/autodl-tmp/graphrag/test/logs/indexing-engine.log
+11:36:58,850 httpx INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+11:37:00,309 openai._base_client INFO Retrying request to /embeddings in 0.489176 seconds
+11:37:00,804 openai._base_client INFO Retrying request to /embeddings in 0.947093 seconds
+11:37:01,759 openai._base_client INFO Retrying request to /embeddings in 1.726985 seconds
+11:37:03,494 openai._base_client INFO Retrying request to /embeddings in 3.069747 seconds
+11:37:06,573 openai._base_client INFO Retrying request to /embeddings in 7.871655 seconds
+11:37:14,451 openai._base_client INFO Retrying request to /embeddings in 6.989096 seconds
+11:37:21,456 openai._base_client INFO Retrying request to /embeddings in 6.704756 seconds
+11:37:28,174 openai._base_client INFO Retrying request to /embeddings in 6.170975 seconds
+11:37:34,353 openai._base_client INFO Retrying request to /embeddings in 6.890317 seconds
+11:37:41,254 openai._base_client INFO Retrying request to /embeddings in 7.156727 seconds
+11:42:15,482 graphrag.cli.index INFO Logging enabled at /root/autodl-tmp/graphrag/test/logs/indexing-engine.log
+11:42:15,944 httpx INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+11:42:17,372 openai._base_client INFO Retrying request to /embeddings in 0.485160 seconds
+11:42:17,862 openai._base_client INFO Retrying request to /embeddings in 0.781396 seconds
+11:42:18,649 openai._base_client INFO Retrying request to /embeddings in 1.848292 seconds
+11:42:20,505 openai._base_client INFO Retrying request to /embeddings in 3.475725 seconds
+11:42:23,989 openai._base_client INFO Retrying request to /embeddings in 6.911447 seconds
+11:42:30,914 openai._base_client INFO Retrying request to /embeddings in 7.987045 seconds
+11:42:38,916 openai._base_client INFO Retrying request to /embeddings in 6.569844 seconds
+11:42:45,495 openai._base_client INFO Retrying request to /embeddings in 7.710341 seconds
+11:42:53,217 openai._base_client INFO Retrying request to /embeddings in 6.820755 seconds
+11:43:00,50 openai._base_client INFO Retrying request to /embeddings in 7.250373 seconds
+11:47:19,600 graphrag.cli.index INFO Logging enabled at /root/autodl-tmp/graphrag/test/logs/indexing-engine.log
+11:47:20,116 httpx INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+11:47:21,471 openai._base_client INFO Retrying request to /embeddings in 0.417181 seconds
+11:47:21,893 openai._base_client INFO Retrying request to /embeddings in 0.875199 seconds
+11:47:22,775 openai._base_client INFO Retrying request to /embeddings in 1.861520 seconds
+11:47:24,645 openai._base_client INFO Retrying request to /embeddings in 3.067118 seconds
+11:47:27,722 openai._base_client INFO Retrying request to /embeddings in 7.560505 seconds
+11:47:35,293 openai._base_client INFO Retrying request to /embeddings in 7.695798 seconds
+11:47:43,2 openai._base_client INFO Retrying request to /embeddings in 7.647880 seconds
+11:47:50,662 openai._base_client INFO Retrying request to /embeddings in 6.514400 seconds
+11:47:57,190 openai._base_client INFO Retrying request to /embeddings in 6.535862 seconds
+11:48:03,738 openai._base_client INFO Retrying request to /embeddings in 6.377633 seconds
+15:02:53,6 graphrag.cli.index INFO Logging enabled at /root/autodl-tmp/graphrag/test/logs/indexing-engine.log
+15:02:53,526 httpx INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+15:03:04,330 httpx INFO HTTP Request: POST http://localhost:11434/v1/embeddings "HTTP/1.1 500 Internal Server Error"
+15:03:04,331 openai._base_client INFO Retrying request to /embeddings in 0.404290 seconds
+15:03:13,268 httpx INFO HTTP Request: POST http://localhost:11434/v1/embeddings "HTTP/1.1 500 Internal Server Error"
+15:03:13,269 openai._base_client INFO Retrying request to /embeddings in 0.908784 seconds
+15:03:20,537 httpx INFO HTTP Request: POST http://localhost:11434/v1/embeddings "HTTP/1.1 500 Internal Server Error"
+15:03:20,539 openai._base_client INFO Retrying request to /embeddings in 1.742716 seconds
+15:03:28,675 openai._base_client INFO Retrying request to /embeddings in 3.950354 seconds
+15:03:32,634 openai._base_client INFO Retrying request to /embeddings in 7.628755 seconds
+15:03:40,275 openai._base_client INFO Retrying request to /embeddings in 7.074765 seconds
+15:03:47,362 openai._base_client INFO Retrying request to /embeddings in 6.863409 seconds
+15:03:54,236 openai._base_client INFO Retrying request to /embeddings in 6.201406 seconds
+15:04:00,448 openai._base_client INFO Retrying request to /embeddings in 7.837391 seconds
+15:04:08,296 openai._base_client INFO Retrying request to /embeddings in 7.598192 seconds
